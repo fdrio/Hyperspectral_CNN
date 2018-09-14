@@ -1,3 +1,3 @@
 # Summer
 
-# Hyperspectral_CNN
+# Hyperspectral_CNN PyTorch
